@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-public class Main {
+public class Ejercicio2 {
 
 	public static void main(String[] args) {
 
