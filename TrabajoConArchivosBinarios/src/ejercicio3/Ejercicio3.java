@@ -6,7 +6,7 @@ import java.util.*;
 
 public class CallTracker {
 	private ArrayList<Integer> calls;
-	private final String FILENAME = "llamadas.dat";
+	private final String FILENAME = "ficheros//llamadas.dat";
 
 	public CallTracker() {
 		calls = new ArrayList<Integer>();
