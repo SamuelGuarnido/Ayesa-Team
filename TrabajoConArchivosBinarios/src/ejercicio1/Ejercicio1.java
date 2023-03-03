@@ -1,4 +1,4 @@
-paackage ej1
+package ej1;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
