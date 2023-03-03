@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author samue
- *
- */
-module TrabajoConArchivosBinarios {
-}

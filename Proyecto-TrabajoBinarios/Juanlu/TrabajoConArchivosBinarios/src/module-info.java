@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author iohan
- *
- */
-module TrabajoConArchivosBinarios {
-}
